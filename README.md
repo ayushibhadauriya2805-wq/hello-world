@@ -1,2 +1,4 @@
 # hello-world
-This is a repository created by ayushi
+Ayushi Bhadauriya
+Language I Know :- Python,SQL,HTML
+One thing i want to build this year : A small web app 
